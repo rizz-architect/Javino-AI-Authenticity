@@ -1,8 +1,14 @@
-﻿# 🛡️ Javino — AI Media Authenticity Engine
+# 🛡️ Javino — AI Media Authenticity Engine
+
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.2-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Next.js](https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
+[![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](LICENSE)
 
 A forensic analysis platform that detects AI-generated media, deepfakes, and synthetic manipulations using advanced vision AI, metadata forensics, and LLM-powered analysis.
 
-**Built by [Sriram S](https://sriram.website/)** • **Proprietary Software**
+**Built by [Sriram Gandhi S](https://sriram.website/)** • **Proprietary Software**
 
 ---
 
@@ -20,7 +26,7 @@ A forensic analysis platform that detects AI-generated media, deepfakes, and syn
 - [License](#license)
 
 ---
-i c
+
 ## 🎯 Overview
 
 **Javino** is an enterprise-grade forensic analysis platform designed to authenticate media in real-time. Using a proprietary **4-Layer Analysis Engine**, it combines:
